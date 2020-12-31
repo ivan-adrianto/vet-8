@@ -8,4 +8,6 @@ The admin clinic can manage veterinarian that work in their clinic, both adding 
 
 All users can update their profile, from personal info until their profile photo.
 
+Note: The chat feature is still under development stage
+
 ##Enjoy, and stay safe everyone
